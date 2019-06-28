@@ -23,7 +23,7 @@ Branches:  it is more related to commits.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    In that case, we can tell if we need to either Merge or Fetch from Github by looking at codes in Github.  
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
