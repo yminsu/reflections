@@ -11,7 +11,12 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+forks copies a repository to my Github online. 
+
+clones:  it copies a repository from Gibhub to my local computer
+
+Branches:  it is more related to commits. 
+
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
@@ -27,3 +32,5 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     Fill in your answer here
+
+
